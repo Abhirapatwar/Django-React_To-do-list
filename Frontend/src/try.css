@@ -1,0 +1,31 @@
+body{
+    background:url("https://source.unsplash.com/collection/190727/1600x900") no-repeat center center/cover;
+            content: "";
+            width: 100vw;
+            height: 100vh;
+            z-index: -1;
+            opacity: 0.9;
+            
+}
+
+.brow{
+   /* border: 2px solid black; */
+   height: 40px;
+   margin: 15px;
+}
+.crow{
+   border: 2px solid black;
+   height: 40px;
+}
+.outdiv{
+}
+.bcol{
+    /* border: 2px solid blue; */
+}
+.ccol{
+    /* border: 2px solid rgb(188, 222, 65); */
+    height: 40px;
+}
+.texth1{
+    color: white;
+}
